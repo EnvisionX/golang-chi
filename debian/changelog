@@ -1,4 +1,4 @@
-golang-chi (0.1.0) unstable; urgency=low
+golang-chi (3.3.2-1) unstable; urgency=low
 
   * Initial release as Debian package.
 

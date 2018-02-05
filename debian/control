@@ -1,14 +1,12 @@
 Source: golang-chi
-Section: non-free/devel
+Section: devel
 Priority: extra
 Maintainer: Andrii Shabalin <andrii.shabalin@envisionx.co>
-Build-Depends: debhelper, golang
+Build-Depends: debhelper
 Standards-Version: 3.9.3
-Homepage: https://github.com/EnvisionX/golang-chi
-Vcs-Browser: https://github.com/EnvisionX/golang-chi
-Vcs-Git: https://github.com/EnvisionX/golang-chi.git
+Homepage: https://github.com/go-chi/chi
 
-Package: envx-golang-chi
+Package: golang-chi
 Architecture: all
 Description: Golang router and http server
  Golang router and http server

@@ -1,7 +1,0 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: golang-chi
-
-Files: *
-Copyright: 2017 ENVISIONX <info@envisionx.co>
-License: Restricted
- Only for ENVISIONX internal purposes.
