@@ -1,0 +1,5 @@
+golang-chi (0.1.0) unstable; urgency=low
+
+  * Initial release as Debian package.
+
+ -- Andrii Shabalin <andrii.shabalin@envisionx.co>  Thu, 05 Feb 2018 13:04:00 +0200
