@@ -1,12 +1,11 @@
 Source: golang-chi
 Section: devel
 Priority: extra
-Maintainer: Andrii Shabalin <andrii.shabalin@envisionx.co>
-Build-Depends: debhelper
-Standards-Version: 3.9.3
+Maintainer: Oleksii Klitovchenko <oleksii.klitovchenko@envisionx.co>
+Build-Depends: debhelper, golang
+Standards-Version: 4.1.4
 Homepage: https://github.com/go-chi/chi
 
 Package: golang-chi
-Architecture: all
-Description: Golang router and http server
- Golang router and http server
+Architecture: any
+Description: Lightweight, idiomatic and composable router for building Go HTTP services.

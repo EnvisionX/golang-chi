@@ -1,3 +1,9 @@
+golang-chi (4.0.3-1) unstable; urgency=low
+
+  * rebuild with new versions of libs.
+
+ -- Oleksii Klitovchenko <oleksii.klitovchenko@envisionx.co>  Thu, 16 Mar 2020 23:51:27 +0200
+
 golang-chi (3.3.2-1) unstable; urgency=low
 
   * Initial release as Debian package.
